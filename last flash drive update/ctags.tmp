@@ -1,0 +1,86 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_MOD_BY	Bostjan Mihoric	/ccompletion@gmail.com/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	/unofficial modification/
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	/unofficial modification/
+ASSERT_NUMBER_VALIDITY	matrix.c	103;"	function
+ASSERT_NUMBER_VALIDITY	matrix.h	44;"	prototype
+DEBUG	matrix.c	8;"	macro	file:
+ERRORS_FATAL	matrix.c	9;"	macro	file:
+MATRIX_HEADER_INCLUDED	matrix.h	4;"	macro
+MATRIX_INCLUDED	matrix.c	7;"	macro	file:
+VERBOSE	matrix.c	11;"	macro	file:
+VERBOSE_ERRORS	matrix.c	10;"	macro	file:
+add	matrix.c	148;"	function
+add	matrix.h	52;"	prototype
+add_row	matrix.h	64;"	prototype
+assign_to_matrix	matrix.h	69;"	prototype
+assign_to_rationalNum	matrix.c	130;"	function
+assign_to_rationalNum	matrix.h	48;"	prototype
+checkValidMatrix	matrix.h	67;"	prototype
+checkValidNumber	matrix.c	89;"	function
+checkValidNumber	matrix.h	43;"	prototype
+cols	matrix.h	16;"	member	struct:__anon2
+cols	matrix.h	23;"	member	struct:__anon3
+copy_to_matrix_row	matrix.c	218;"	function
+copy_to_matrix_row	matrix.h	62;"	prototype
+denominator	matrix.c	140;"	local
+divide	matrix.c	208;"	function
+divide	matrix.h	57;"	prototype
+divisor	matrix.h	10;"	member	struct:__anon1
+free_matrix_memory	matrix.c	73;"	function
+free_matrix_memory	matrix.h	37;"	prototype
+free_row_memory	matrix.c	40;"	function
+free_row_memory	matrix.h	36;"	prototype
+i	main.c	8;"	local
+i	matrix.c	116;"	local
+i	matrix.c	220;"	local
+i	matrix.c	30;"	local
+i	matrix.c	53;"	local
+i	matrix.c	75;"	local
+init_From_Int	matrix.c	20;"	function
+init_From_Int	matrix.h	30;"	prototype
+init_rationalNumber	matrix.c	13;"	function
+init_rationalNumber	matrix.h	29;"	prototype
+init_t_matrix	matrix.c	49;"	function
+init_t_matrix	matrix.h	32;"	prototype
+init_t_matrix_row	matrix.c	28;"	function
+init_t_matrix_row	matrix.h	31;"	prototype
+inverse	matrix.c	179;"	function
+inverse	matrix.h	54;"	prototype
+isValid	matrix.h	11;"	member	struct:__anon1
+isValid	matrix.h	24;"	member	struct:__anon3
+j	main.c	8;"	local
+j	matrix.c	220;"	local
+j	matrix.c	53;"	local
+j	matrix.c	75;"	local
+main	main.c	6;"	function
+matrix	matrix.h	25;"	member	struct:__anon3
+mult	matrix.c	196;"	function
+mult	matrix.h	56;"	prototype
+myRow	main.c	9;"	local
+negate	matrix.c	173;"	function
+negate	matrix.h	53;"	prototype
+numerator	matrix.c	140;"	local
+numerator	matrix.h	9;"	member	struct:__anon1
+push_to_matrix	matrix.h	68;"	prototype
+push_to_row	matrix.c	213;"	function
+push_to_row	matrix.h	61;"	prototype
+rationalNumber	matrix.h	12;"	typedef
+reduce	matrix.c	114;"	function
+reduce	matrix.h	45;"	prototype
+resolve	matrix.c	138;"	function
+resolve	matrix.h	50;"	prototype
+retVal	matrix.c	150;"	local
+retVal	matrix.c	181;"	local
+retVal	matrix.c	198;"	local
+row	matrix.h	17;"	member	struct:__anon2
+rows	matrix.h	22;"	member	struct:__anon3
+scalar_mult	matrix.h	63;"	prototype
+subtract	matrix.c	190;"	function
+subtract	matrix.h	55;"	prototype
+switch_rows	matrix.h	70;"	prototype
+t_matrix	matrix.h	26;"	typedef
+t_matrix_row	matrix.h	18;"	typedef
