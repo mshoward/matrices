@@ -1,7 +1,9 @@
 matrices
-========
+
+
 
 program requirements:
+
 	capabilities:
 		relatively easy CLI interface, ideally through menus and prompts
 		step by step gauss-jordan elimination (priority 1)
