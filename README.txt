@@ -9,6 +9,8 @@ program requirements:
 		step by step gauss-jordan elimination (priority 1)
 		matrix mathematics (priority 2)
 		vector mathematics (priority 3)
+		solve first order linear equations
+		find solutions to n-order equations
 	
 	structure:
 	separating use from definition and separating definition from declaration,
